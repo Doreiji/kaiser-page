@@ -1,3 +1,3 @@
 # kaiser-page
 
-a simple biolinks web made with html and css language
+a simple biolinks page made with html and css language
